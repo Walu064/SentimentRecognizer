@@ -23,4 +23,6 @@ python main.py
 ```
 6. W środowisku Visual Studio otwórz projekt za pomocą pliku rozwiązania (SentimentRecognizer.sln)
 
-7. Korzystaj z aplikacji wpisując frazy w pole tekstowe. Obserwuj log po stronie API, by widzieć komunikację pomiędzy dwoma warstwami.
+7. Za pomocą menadżera pakietów NuGet zainstaluj pakiet Newtonsoft.json, następnie skompiluj i uruchom aplikację.
+
+8. Korzystaj z aplikacji wpisując frazy w pole tekstowe. Obserwuj log po stronie API, by widzieć komunikację pomiędzy dwoma warstwami.
